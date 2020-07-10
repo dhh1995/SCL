@@ -1,0 +1,4 @@
+matplotlib == 3.1.2
+tqdm
+PIL
+sklearn
